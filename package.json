@@ -1,6 +1,6 @@
 {
   "name": "promise-shim",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "For when your promise libraries `promisify` method just won't cut it!",
   "license": "MIT",
   "repository": "jamestalmage/promise-shim",
