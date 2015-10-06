@@ -28,7 +28,9 @@
     "nodeback",
     "node"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "promise-resolver": "^0.1.0"
+  },
   "devDependencies": {
     "bluebird": "^2.10.2",
     "mocha": "^2.2.5",

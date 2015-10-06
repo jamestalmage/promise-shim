@@ -43,6 +43,9 @@ myService('foo-a', 'foo-b').then(...);
 
 **Note:** Always check your Promise libraries options for "promisification", you will only need `promise-shim` in specific instances.
 
+Related:
+* [promise-resolver](https://www.npmjs.com/package/promise-resolver)
+
 ## License
 
 MIT © [James Talmage](http://github.com/jamestalmage)
