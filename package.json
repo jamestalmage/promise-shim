@@ -1,7 +1,7 @@
 {
   "name": "promise-shim",
   "version": "0.0.0",
-  "description": "My remarkable module",
+  "description": "For when your promise libraries `promisify` method just won't cut it!",
   "license": "MIT",
   "repository": "jamestalmage/promise-shim",
   "author": {
@@ -19,7 +19,14 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "promise",
+    "promises",
+    "promisification",
+    "promisify",
+    "callback",
+    "callbacks",
+    "nodeback",
+    "node"
   ],
   "dependencies": {},
   "devDependencies": {
